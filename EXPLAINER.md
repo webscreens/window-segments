@@ -2,6 +2,13 @@
 
 [Daniel Libby](https://github.com/dlibby-), [Zouhir Chahoud](https://github.com/Zouhir)
 
+## Related explainers:
+| Name | Link |
+|------|------|
+| Screen Fold API | [Explainer](https://github.com/SamsungInternet/Explainers/blob/master/Foldables/FoldState.md), [Unofficial Draft Spec](https://w3c.github.io/screen-fold/) |
+| Multi-Screen Window Placement API | [Explainer](https://github.com/webscreens/window-placement/blob/master/EXPLAINER.md), [Draft Community Group Report](https://webscreens.github.io/window-placement/) |
+| Visual Viewport API | [Draft Community Group Report](https://wicg.github.io/visual-viewport/), [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API) |
+
 ## Motivation:
 Web developers targeting foldable devices want to be able to effectively lay out the content in a window that spans multiple displays. However, the web platform does not yet provide the necessary primitives for building layouts that are optimized for foldable experiences.
 Developers may be able to solve this by taking a hard dependency on a specific device hardware parameters - an approach that is fragile, not scalable, and requires work duplication for each new device.
