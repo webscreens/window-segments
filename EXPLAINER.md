@@ -1,3 +1,5 @@
+Status: This explainer has been deprecated in favor of the [Segments Property Explainer](https://github.com/WICG/visual-viewport/blob/gh-pages/segments-explainer/SEGMENTS-EXPLAINER.md) under the Visual Viewport API spec.
+
 # Window Segments Enumeration API
 
 [Daniel Libby](https://github.com/dlibby-), [Zouhir Chahoud](https://github.com/Zouhir)
